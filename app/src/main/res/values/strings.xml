@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login2902081</string>
+    <string name="hello">hey there</string>
+    <string name="create_account">Create an Account</string>
+    <string name="Welcome"> Welcome Back</string>
+    <string name="email">email</string>
+    <string name="last_name">last_name</string>
+    <string name="first_name">first_name</string>
+</resources>
